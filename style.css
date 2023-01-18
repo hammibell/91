@@ -1,0 +1,19 @@
+body{
+    background-color:yellow;
+
+}
+#update_score{
+    font-size:12px;
+    margin-left:20px;
+
+}
+#timer{
+    font-size:12px;
+    float:right;
+   
+
+}
+#sketch_to_be_drawn{
+    color:orange;
+
+}
